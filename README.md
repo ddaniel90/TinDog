@@ -6,7 +6,12 @@ Start up landing page for a fictional application named TinDog. TinDog allows th
 
 Deployed Website: https://ddaniel90.github.io/TinDog/
 
-![tindog](./images/Capture.png)
+# Screenshots
+![](images/first-section.png)
+
+![](images/Carousel.png)
+
+![](images/Card.png)
 
 ## Built With
 
